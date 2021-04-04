@@ -20,7 +20,7 @@ copiamos enlace.
 creamos una cuenta y agregamos connection con el link de Google Sheets  y la referencias que nos entrega es a la que nos conectamos
 
 ## 03-Deploy github
-npm install -D gh-pages
+npm install gh-pages --save-dev
 en package.json
   "homepage": "https://stev-189.github.io/reactgooglesheets",//nombre del repositorio github
  
